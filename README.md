@@ -7,7 +7,7 @@ Users can:
 
 - 🔎Search for books using semantic similarity
 - 🏷️Filter books by category
-- ☺️Filter books by emotional tone
+- 😊Filter books by emotional tone
 - 🖥️Interact with recommendations through a Gradio web dashboard
 
 # Technologies Used
